@@ -16,9 +16,11 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 2. ダウンロードしたZipフォルダを展開してください。
 
 3. ![nurse-robo-v.1.1.0](nurse-robo-v1.1.0/nurse-robo-v1.1.0.exe)をクリックし、リンク先のページの右の方にあるDownloadボタンをクリックしてください。
-<img src="https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg" width="75%">
-
+<img src="https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg" width="75%" style="border: 1px solid #ccc;">
 <!-- 
+
+<img src="画像のURL" alt="画像の説明" style="border: 1px solid #ccc;">
+
 ![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
 -->
 
