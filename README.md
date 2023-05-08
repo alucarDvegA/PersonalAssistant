@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 3.再度URLにアクセスしてnurse-robo-v1.0.3.exeをクリック、右の方にあるDownloadをクリック。
 
-![Fs6_q43aQAE4I8F](https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg)
+![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
 
 4.ダウンロード先を展開したフォルダの最下層
 （画像ファイル等がある場所）にあるnurse-robo-v1.0.3.exe
@@ -33,17 +33,21 @@ https://laboratory.kazuuu.net/how-to-get-an-openai-api-key/
 
 7.nurse-robo-v1.0.3.exeをダブルクリック。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。（初回だけ起動に時間がかかります）
 
-![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
+![Fs6_q43aQAE4I8F](https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg)
 
 8.右下の入力BOXにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
 
 9.認証が完了すると会話できるようになります。
 
 音声入力
+![Fs7DUeFaMAAzpUW](https://user-images.githubusercontent.com/127037666/236718700-0ad4d45c-c28d-4ff5-8405-aa491a2f4b0b.jpg)
 
 会話の方法は右下の入力ボックスにテキストを書いてEnterキーを押すか、空欄のままEnterキーを押して声で話しかけるかです。
 別のウィンドウで「話してください...」と表示されている間は聞いています。話し始めてから１秒以上の沈黙があると聞くのをやめて応答を考えます。
 応答が考え終わると口パクしながら返答を話し始めます。
+
+![Fs7Id9yaMAYn4TB](https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg)
+
 /settingとだけ入力すると設定モードに切り替わります。その状態で設定したいキャラ設定を入力すると、キャラ設定を変更できます。
 このアプリを利用た上で「発信する」場合、利用規約 krnr.top/rulesを遵守してください。
 ソースコードを利用・編集・再配布する際に、私への連絡・クレジット表記は不要です。
