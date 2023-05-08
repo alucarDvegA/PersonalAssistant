@@ -15,11 +15,15 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 2. ダウンロードしたZipフォルダを展開してください。
 
-3. [nurse-robo-v.1.1.0](nurse-robo-v1.1.0/nurse-robo-v1.1.0.exe)をクリックし、リンク先のページの右の方にあるDownloadボタンをクリックしてください。
-![Fs65241aQAE-FTp](https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png)
+3. ![nurse-robo-v.1.1.0](nurse-robo-v1.1.0/nurse-robo-v1.1.0.exe)をクリックし、リンク先のページの右の方にあるDownloadボタンをクリックしてください。
+<img src="https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg" width="75%">
+
+<!-- 
+![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
+-->
 
 4. 展開したフォルダのnurse-robo-v1.1.0.exeに上書き保存してください。
-![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
+![Fs65241aQAE-FTp](https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png)
 
 ## セッティング方法
 1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
@@ -29,9 +33,9 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 3. nurse-robo-v1.1.0.exeをダブルクリック。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。（初回だけ起動に時間がかかります）
 
-![Fs6_q43aQAE4I8F](https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg)
-
 4. 右下の入力BOXにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
+
+![Fs6_q43aQAE4I8F](https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg)
 
 5. 認証が完了すると会話できるようになります。
 
