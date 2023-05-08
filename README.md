@@ -1,18 +1,25 @@
 # nurse-robo
 
-https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7-ab14-5dcb66938d62.mp4
-
 # 編集中
+
+## Downloads
+https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7-ab14-5dcb66938d62.mp4
 
 ![Fs60KHuaAAE7mtP](https://user-images.githubusercontent.com/127037666/236717163-23b2fd4c-0ac2-47d8-be41-55f2be2d7bc5.png)
 
-1.URLにアクセスして緑色のボタン、Download ZIPを押してダウンロードする。
+1.緑色のボタン、Download ZIPを押してダウンロードする。
 
 ![Fs61B9GaMAMr73E](https://user-images.githubusercontent.com/127037666/236717220-2fcdcfa8-d95c-4248-aba1-72704dc5827e.png)
 
 2.ダウンロードしたZipフォルダを展開する。
 
+![Fs65241aQAE-FTp](https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png)
+
 3.再度URLにアクセスしてnurse-robo-v1.0.3.exeをクリック、右の方にあるDownloadをクリック。
+
+![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
+
+![Fs6_q43aQAE4I8F](https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg)
 
 4.ダウンロード先を展開したフォルダの最下層
 （画像ファイル等がある場所）にあるnurse-robo-v1.0.3.exe
@@ -27,6 +34,10 @@ https://laboratory.kazuuu.net/how-to-get-an-openai-api-key/
 を参考に取得できます。
 
 7.nurse-robo-v1.0.3.exeをダブルクリック。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。（初回だけ起動に時間がかかります）
+
+
+![Uploading Fs6_q43aQAE4I8F.jpg…]()
+
 
 8.右下の入力BOXにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
 
