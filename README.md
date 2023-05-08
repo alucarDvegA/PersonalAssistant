@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 （初回だけ起動に時間がかかります）
 
-4. アプリの右下の入力ボックスにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
+4. アプリの右下の入力ボックスにAPIキーをコピペしてEnterを入力するとAPIキーが有効か否かを認証します。
 <!--
 <img src="https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg" width="75%" style="border: 10px solid #hhh;">
 -->
