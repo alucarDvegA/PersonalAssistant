@@ -2,7 +2,7 @@
 
 # 編集中
 
-## Downloads
+## ダウンロード方法
 https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7-ab14-5dcb66938d62.mp4
 
 ![Fs60KHuaAAE7mtP](https://user-images.githubusercontent.com/127037666/236717163-23b2fd4c-0ac2-47d8-be41-55f2be2d7bc5.png)
@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 9.認証が完了すると会話できるようになります。
 
-音声入力
+## 音声入力方法
 ![Fs7DUeFaMAAzpUW](https://user-images.githubusercontent.com/127037666/236718700-0ad4d45c-c28d-4ff5-8405-aa491a2f4b0b.jpg)
 
 会話の方法は右下の入力ボックスにテキストを書いてEnterキーを押すか、空欄のままEnterキーを押して声で話しかけるかです。
@@ -46,6 +46,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 ![Fs7Id9yaMAYn4TB](https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg)
 
+## 設定方法
 /settingとだけ入力すると設定モードに切り替わります。その状態で設定したいキャラ設定を入力すると、キャラ設定を変更できます。
 このアプリを利用た上で「発信する」場合、利用規約 krnr.top/rulesを遵守してください。
 ソースコードを利用・編集・再配布する際に、私への連絡・クレジット表記は不要です。
