@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 ![Fs65241aQAE-FTp](https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png)
 
-3.再度URLにアクセスしてnurse-robo-v1.0.3.exeをクリック、右の方にあるDownloadをクリック。
+3.再度v1.1.0フォルダ内のnurse-robo-v1.0.3.exeをクリック、右の方にあるDownloadをクリック。
 
 ![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
 
@@ -23,8 +23,8 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 （画像ファイル等がある場所）にあるnurse-robo-v1.0.3.exe
 にして上書き保存。
 
-5.VOICEVOXをvoicevox.hiroshiba.jpからダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
-このサイトhttps://sosakubiyori.com/voicevox-introduction/
+5.[VOICEVOX](voicevox.hiroshiba.jp)をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
+この[サイト](https://sosakubiyori.com/voicevox-introduction/)
 に沿って設定して下さい。
 
 6.OpenAIのAPIキーを用意する。まだ持ってない方は
