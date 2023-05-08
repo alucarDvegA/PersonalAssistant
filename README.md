@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 -->
 
 4. 展開したフォルダのnurse-robo-v1.1.0.exeに上書き保存してください。
-![Fs65241aQAE-FTp](https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png)
+<img src="https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png" width="75%" style="border: 10px solid #hhh;">
 
 ## セッティング方法
 1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
@@ -36,18 +36,22 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 4. 右下の入力BOXにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
 
-![Fs6_q43aQAE4I8F](https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg)
+<img src="https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg" width="75%" style="border: 10px solid #hhh;">
 
 5. 認証が完了すると会話できるようになります。
 
 ## 音声入力方法
-![Fs7DUeFaMAAzpUW](https://user-images.githubusercontent.com/127037666/236718700-0ad4d45c-c28d-4ff5-8405-aa491a2f4b0b.jpg)
+
+<img src="https://user-images.githubusercontent.com/127037666/236718700-0ad4d45c-c28d-4ff5-8405-aa491a2f4b0b.jpg" width="75%" style="border: 10px solid #hhh;">
 
 会話の方法は右下の入力ボックスにテキストを書いてEnterキーを押すか、空欄のままEnterキーを押して声で話しかけるかです。
 別のウィンドウで「話してください...」と表示されている間は聞いています。話し始めてから１秒以上の沈黙があると聞くのをやめて応答を考えます。
 応答が考え終わると口パクしながら返答を話し始めます。
 
+<img src="https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg" width="75%" style="border: 10px solid #hhh;">
+<!-- 
 ![Fs7Id9yaMAYn4TB](https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg)
+-->
 
 ## 設定方法
 /settingとだけ入力すると設定モードに切り替わります。その状態で設定したいキャラ設定を入力すると、キャラ設定を変更できます。
