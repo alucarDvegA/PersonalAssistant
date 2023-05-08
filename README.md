@@ -21,6 +21,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 （画像ファイル等がある場所）にあるnurse-robo-v1.0.3.exe
 にして上書き保存。
 
+## セッティング方法
 5.[VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
 この[サイト](https://sosakubiyori.com/voicevox-introduction/)
 に沿って設定して下さい。
