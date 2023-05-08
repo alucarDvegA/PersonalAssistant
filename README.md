@@ -48,7 +48,6 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ## 使用方法
 ### テキスト入力
 右下の入力ボックスにテキストを入力して、Enterキーで確定できます。
-<img src="https://user-images.githubusercontent.com/127037666/236718700-0ad4d45c-c28d-4ff5-8405-aa491a2f4b0b.jpg" width="75%" style="border: 10px solid #hhh;">
 
 ### 音声入力
 
@@ -59,8 +58,8 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 > マイク入力やナースロボの発話中にテキストや設定コマンドを入力すると予期しない動作をするかもしれないため、待ってあげてください（まだデバッグしてません）
 
-<img src="https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg" width="75%" style="border: 10px solid #hhh;">
 <!-- 
+<img src="https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg" width="75%" style="border: 10px solid #hhh;">
 ![Fs7Id9yaMAYn4TB](https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg)
 -->
 
