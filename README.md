@@ -29,16 +29,16 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 -->
 
 ## セッティング方法
-1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
+1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動してください。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
 この[サイト](https://sosakubiyori.com/voicevox-introduction/)に沿って設定して下さい。
 
 2. OpenAIのAPIキーを用意してください。まだ持ってない方はこの[サイト](https://laboratory.kazuuu.net/how-to-get-an-openai-api-key/)を参考に取得できます。
 
-3. nurse-robo-v1.1.0.exeをダブルクリック。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。
+3. nurse-robo-v1.1.0.exeをダブルクリックしてください。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。
 
 （初回だけ起動に時間がかかります）
 
-4. 右下の入力BOXにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
+4. アプリの右下の入力BOXにAPIキーをコピペしてEnterを押すとキーが有効か否かを認証します。
 <!--
 <img src="https://user-images.githubusercontent.com/127037666/236718488-7b00bb12-765b-41af-b72e-aaa4cb103a07.jpg" width="75%" style="border: 10px solid #hhh;">
 -->
