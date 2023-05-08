@@ -29,10 +29,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 -->
 
 ## セッティング方法
-
-1. <a href="https://voicevox.hiroshiba.jp" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
-
-[VOICEVOX](https://voicevox.hiroshiba.jp){:target="_blank"}をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
+1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
 この[サイト](https://sosakubiyori.com/voicevox-introduction/)に沿って設定して下さい。
 
 2. OpenAIのAPIキーを用意してください。まだ持ってない方はこの[サイト](https://laboratory.kazuuu.net/how-to-get-an-openai-api-key/)を参考に取得できます。
