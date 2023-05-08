@@ -7,11 +7,11 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 ![Fs60KHuaAAE7mtP](https://user-images.githubusercontent.com/127037666/236717163-23b2fd4c-0ac2-47d8-be41-55f2be2d7bc5.png)
 
-1.緑色のボタン、Download ZIPを押してダウンロードする。
+1. 緑色のボタン、Download ZIPを押してダウンロードする。
 
 ![Fs61B9GaMAMr73E](https://user-images.githubusercontent.com/127037666/236717220-2fcdcfa8-d95c-4248-aba1-72704dc5827e.png)
 
-2.ダウンロードしたZipフォルダを展開する。
+2. ダウンロードしたZipフォルダを展開する。
 
 ![Fs65241aQAE-FTp](https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png)
 
