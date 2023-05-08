@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ![Fs654HkaIAE3sna](https://user-images.githubusercontent.com/127037666/236718356-e58cba07-6744-4905-bf3d-66036992cd4e.jpg)
 -->
 
-4. 展開したフォルダのnurse-robo-v1.1.0.exeに上書き保存してください。
+4. 既に展開したフォルダのnurse-robo-v1.1.0.exeに上書き保存してください。
 <!-- 
 <img src="https://user-images.githubusercontent.com/127037666/236718257-b310d404-3e63-4fc4-bb52-2620e1f59674.png" width="75%" style="border: 10px solid #hhh;">
 -->
