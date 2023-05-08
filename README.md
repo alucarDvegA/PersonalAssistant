@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ### 声変更
 ```speaker_id:10```
 
-> キャラクターの声を指定した番号に変更します。指定できる声の一覧はリプライかgithubのREADMEに書いてます。最新の声の一覧はVOICEVOXのアプリを起動した状態でhttp://localhost:50021/speakersにアクセスすると確認できます。
+> キャラクターの声を指定した番号に変更します。指定できる声の一覧はリプライかgithubのREADMEに書いてます。最新の声の一覧はVOICEVOXのアプリを起動した状態で http://localhost:50021/speakers にアクセスすると確認できます。
 
 ## ルール
 - このアプリを利用た上で「発信する」場合、利用規約 krnr.top/rulesを遵守してください。
