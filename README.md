@@ -29,8 +29,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 -->
 
 ## セッティング方法
-1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動してください。GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで、
-この[サイト](https://sosakubiyori.com/voicevox-introduction/)に沿って設定して下さい。
+1. [VOICEVOX](https://voicevox.hiroshiba.jp)をダウンロード・起動してください。この[サイト](https://sosakubiyori.com/voicevox-introduction/)に沿って、GPUがある方は「GPUモードに切り替える」まで、そうでない方は「初回起動時の確認」まで設定して下さい。
 
 2. OpenAIのAPIキーを用意してください。まだ持ってない方はこの[サイト](https://laboratory.kazuuu.net/how-to-get-an-openai-api-key/)を参考に取得できます。
 
@@ -64,6 +63,8 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ![Fs7Id9yaMAYn4TB](https://user-images.githubusercontent.com/127037666/236718746-ed861d8b-2453-4aec-82d1-eb09f20167ae.jpg)
 -->
 
+入力ボックスにEscキーを入力してもアプリを終了できます。
+
 ## 設定方法
 ### 設定モード起動
 ```/setting```
@@ -95,4 +96,3 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ## ルール
 - このアプリを利用た上で「発信する」場合、利用規約 krnr.top/rulesを遵守してください。
 - ソースコードを利用・編集・再配布する際に、私への連絡・クレジット表記は不要です。
-- 入力ボックスにEscキーを入力してもアプリを終了できます。
