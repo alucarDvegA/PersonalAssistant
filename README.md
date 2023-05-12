@@ -158,7 +158,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ### 立ち絵差し替え（PersonalAssistantのみ）
 ```エクスプローラーで操作```
 
-> エクスプローラーで[雨晴はう立ち絵ver1.20_n.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_n.png)と[雨晴はう立ち絵ver1.20_u.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_u.png)のファイル名は変更せずに、ファイルの中身だけ差し替えてください。その後にアプリを起動すると立ち絵が更新されます。ちなみに、黒色(RGB値が0,0,0)のピクセルが透過されるので、背景は黒色にするのがおすすめです。また、[雨晴はう立ち絵ver1.20_n.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_n.png)を口を閉じている立ち絵に、[雨晴はう立ち絵ver1.20_u.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_u.png)を口を開けている立ち絵にすると口パクさせられます。
+> エクスプローラーで[雨晴はう立ち絵ver1.20_n.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_n.png)と[雨晴はう立ち絵ver1.20_u.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_u.png)のファイル名は変更せずに、ファイルの中身だけ差し替えてください。その後にアプリを起動すると立ち絵が更新されます。ちなみに、縦長の画像のほうが見切れないのでおすすめで、黒色(RGB値が0,0,0)のピクセルが透過されるので、背景は黒色にするのがおすすめです。また、[雨晴はう立ち絵ver1.20_n.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_n.png)を口を閉じている立ち絵に、[雨晴はう立ち絵ver1.20_u.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_u.png)を口を開けている立ち絵にすると口パクさせられます。
 
 
 ## ルール
