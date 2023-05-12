@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 ![Fs61B9GaMAMr73E](https://user-images.githubusercontent.com/127037666/236717220-2fcdcfa8-d95c-4248-aba1-72704dc5827e.png)
 -->
 
-2. ダウンロードしたZipフォルダを展開してください。
+2. ダウンロードしたZipフォルダを展開してください。[PersonalAssistant](PersonalAssistant)を実行したい場合は以下の3、4の項目は飛ばして大丈夫です。[nurse-robo](nurse-robo-v1.1.0)を実行したい場合は以下の3.4.の項目をしてください。
 
 3. ![nurse-robo-v.1.1.0](nurse-robo-v1.1.0/nurse-robo-v1.1.0.exe)をクリックし、ページの右の方にあるDownloadボタンをクリックしてください。
 <!--
