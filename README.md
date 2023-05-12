@@ -159,5 +159,6 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 
 ## ルール
-- このアプリを利用した上で「発信する」場合、[利用規約](https://krnr.top/rules)を遵守してください。
+- nurse-roboを利用した上で「発信する」場合、[ナースロボタイプTの利用規約](https://krnr.top/rules)を遵守してください。
+- PersonalAssistantを利用した上で「発信する」場合、その時に使用している立ち絵と[声](https://voicevox.hiroshiba.jp)の利用規約を順守してください。
 - ソースコードを利用・編集・再配布する際に、私への連絡・クレジット表記は不要です。
