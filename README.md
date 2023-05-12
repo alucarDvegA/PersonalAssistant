@@ -1,4 +1,4 @@
-# nurse-robo（編集中）
+# nurse-robo
 
 https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7-ab14-5dcb66938d62.mp4
 
