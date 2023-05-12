@@ -157,6 +157,11 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 | 猫使ビィ          | おちつき | 59  |
 | 猫使ビィ          | 人見知り | 60  |
 
+### 立ち絵差し替え（PersonalAssistantのみ）
+```エクスプローラーで操作```
+
+> エクスプローラーで[雨晴はう立ち絵ver1.20_n.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_n.png)と[雨晴はう立ち絵ver1.20_u.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_u.png)のファイル名は変更せずに、ファイルの中身だけ差し替えてください。その後にアプリを起動すると立ち絵が更新されます。ちなみに、黒色(RGB値が0,0,0)のピクセルが透過されるので、背景は黒色にするのがおすすめです。また、[雨晴はう立ち絵ver1.20_n.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_n.png)を口を開けている立ち絵[雨晴はう立ち絵ver1.20_u.png](PersonalAssistant-v1.1.1/resources/雨晴はう立ち絵ver1.20_u.png)を口を閉じている立ち絵にすると口パクさせられます。
+
 
 ## ルール
 - nurse-roboを利用した上で「発信する」場合、[ナースロボタイプTの利用規約](https://krnr.top/rules)を遵守してください。
