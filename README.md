@@ -33,9 +33,7 @@ https://user-images.githubusercontent.com/127037666/236716336-17b5f97c-dcf0-4fd7
 
 2. OpenAIのAPIキーを用意してください。まだ持ってない方はこの[サイト](https://laboratory.kazuuu.net/how-to-get-an-openai-api-key/)を参考に取得できます。
 
-3. nurse-robo-v1.1.0.exeをダブルクリックしてください。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。
-
-（初回だけ起動に時間がかかります）
+3. nurse-robo-v1.1.0.exeをダブルクリックしてください。警告が出ますが実行して、数十秒待つとアプリが立ち上がります。（初回だけ起動に時間がかかります）
 
 4. アプリの右下の入力ボックスにAPIキーをコピペしてEnterを入力するとAPIキーが有効か否かを認証します。
 <!--
